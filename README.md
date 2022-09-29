@@ -1,7 +1,8 @@
-If you have problem with acceccing the apps, first install OneDrive:\
+Android apps
+
+OneDrive:\
 https://emckclac-my.sharepoint.com/:u:/g/personal/k21140758_kcl_ac_uk/EcFPp4ldsj9Ov34yZjJf1HgBdh2GXzqagaPd23uV4mMOQQ?e=Yl2lBK
 
-Android apps
 
 VPN\
 Green net:
